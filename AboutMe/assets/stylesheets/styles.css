@@ -1,0 +1,17 @@
+.bg-1{
+	background-color: #66b2b2; /* Teal */
+	color: #ffffff;
+	}
+
+.col-md-4{
+	grid-column-gap: 0px;
+}
+
+footer {
+	background-color: #004c4c; /* dark Teal */
+	color: #ffffff;
+	}
+.Panel {
+	background-color: #004c4c; /* dark Teal */
+	color: #ffffff; 
+}

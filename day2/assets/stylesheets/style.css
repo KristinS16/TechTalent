@@ -1,0 +1,38 @@
+
+* {
+	background-color: #efefe1;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+[href] {
+	color: orange;
+}
+div.sticky {
+	position: sticky;
+	top: 0;
+	background-color: blue;
+	border: 2px solid blue;
+}
+a:visited {
+	color: none;
+	text-decoration: none;
+}
+/* Not sure if done right - Prevent the <a> tags from changing colors after being clicked*/
+p.big-text{
+	font-size: 50px;
+}
+div.square {
+	height: 150px; width: 150px;
+	display: inline-block;
+	background-color: red;
+}
+div.circle {
+	border-radius: 100%;
+	width: 200px;
+	height: 200px;
+	border: 3px solid blue;
+	background-color: blue
+}
